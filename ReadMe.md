@@ -3,7 +3,9 @@
 This repository is the official PyTorch implementation of:
 
 [**"FedAKD: Federated Adaptive Knowledge Distillation via Global Knowledge Calibration and Decoupling"**]
+
 Thanks for FedNTD. We build this repo based on the [FedNTD (Federated Not-True Distillation)](https://github.com/Lee-Gihun/FedNTD)).
+
 ## Requirements
 
 - This codebase is written for `python3` (used `python 3.8.8` while implementing).
